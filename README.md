@@ -4,7 +4,7 @@
 
 입력된 단어를 아스키코드값으로 한글 자모로 나눈 후 difflib 으로 교정.
 
-**use example**
+
 
 error_correction.py
 ~~~python
