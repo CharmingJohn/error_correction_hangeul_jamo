@@ -14,8 +14,4 @@ def correction(call):
 ~~~
 
 
-test.py
-~~~python
-import error_correction
-print(error_correction.correction('특정단어'))
-~~~
+test.py --word 사삼
