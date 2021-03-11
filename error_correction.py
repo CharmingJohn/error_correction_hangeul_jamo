@@ -33,7 +33,7 @@ def diff(word1, word2):
 
 def correction(call):
     #단어 세트 추가 및 변경
-    target = ['상담사', '신호', '속도', '과속', '범칙금']
+    target = ['호랑이', '사자', '가오리', '토끼', '사슴']
 
     result = 0
     result_word = ''
@@ -48,4 +48,4 @@ def correction(call):
     return result_word
 
 if __name__ == "__main__":
-    print(correction('신우'))
+    print(correction(''))
